@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+.about-header {
+    display: flex;
+    text-align: center;
+}
+
+.about-header {
+    text-align: center;
+}
+
+.paragraph {
+    text-align: justify;
+}
+
+.work-container {
+    display: flex;
+    gap: 10px;
+  }
+  
+.work-container div {
+    border: 1px solid gray;
+    padding: 20px;
+  }
